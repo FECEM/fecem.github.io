@@ -1,0 +1,44 @@
+[
+    {
+        "year": "2017 - Actualmente",
+        "title": "Ensitech",
+        "descriptionTitle": "Ingeniero de Software SR",
+        "description": "Análisis, diseño y construcción de aplicaciones web. <br><b>Tecnologías y lenguajes de programación:</b><br> Microsoft ASP.NET, JAVA, JavaScript, NodeJS, ReactJS, AngularJS, Umbraco, SQL Server y Postgres."
+    },
+    {
+        "year": "2017 - Actualmente",
+        "title": "Universidad Mesoamericana de San Agustín, A.C.",
+        "descriptionTitle": "Profesor",
+        "description": "Profesor de programación básica y avanzada, en ambiente de escritorio y web. <br><b>Tecnologías y lenguajes de programación:</b><br> C++, JAVA, Microsoft C#, ASP.NET y JavaScript."
+    },
+    {
+        "year": "2016 - 2017",
+        "title": "Cotemar S.A. de C.V.",
+        "descriptionTitle": "Ingeniero de Software .NET SR",
+        "description": "Análisis y desarrollo de aplicaciones web. <br><b>Tecnologías y lenguajes de programación:</b><br> Microsoft ASP.NET MVC, SQL Server y Team Foundation Server."
+    },
+    {
+        "year": "2015 - 2016",
+        "title": "Working Capital",
+        "descriptionTitle": "Administrador de TI",
+        "description": "Administración de redes, de base de datos, asistencia y soporte técnico, reparación y ensamblado de ordenadores, administración y desarrollo de proyectos de software."
+    },
+    {
+        "year": "2014 - 2015",
+        "title": "egob Plataforma de Gobierno Digital",
+        "descriptionTitle": "Ingeniero de Software",
+        "description": "Análisis y desarrollo de aplicaciones en .NET. <br><b>Tecnologías y lenguajes de programación:</b><br> Microsoft C#, JavaScript, HTML, CSS, DHTMLX, ADO.NET Entity Framework, SQL Server y Team Foundation Server."
+    },
+    {
+        "year": "2012 - 2013",
+        "title": "Centro de Estudios de las Americas",
+        "descriptionTitle": "Analista Programador",
+        "description": "Análisis, desarrollo y mantenimiento de sistemas y paginas web internos. <br><b>Tecnologías y lenguajes de programación:</b><br> Microsoft VB.NET 2008, ASP.NET WebForms, JavaScript, HTML, CSS, ADO.NET"
+    },
+    {
+        "year": "2011 - 2012",
+        "title": "Secretaria de Cultura y Arte de Yucatán",
+        "descriptionTitle": "Programador",
+        "description": "Practicas profesionales en desarrollo de aplicaciones web."
+    }
+]
