@@ -1,0 +1,10 @@
+{
+    "logotipoImagen": "assets/img/logo.png",
+    "logotipoTexto": "FESoftware",
+    "imagen": "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-9/13697131_10208398354389165_724072983246016077_n.jpg?_nc_cat=101&_nc_sid=7aed08&_nc_ohc=RhozOzHmstgAX8cxpnj&_nc_ht=scontent.fmid3-1.fna&oh=c7dfe10e58f70156cb55b50d0883e518&oe=5F20F65D",
+    "titulo": "Fernando Escalante",
+    "banner": "assets/img/banner02.png",
+    "subtitulos": [
+        "Desarrollador de Software"
+    ]
+}
