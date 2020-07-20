@@ -763,7 +763,6 @@ class HeaderComponent {
             }
         });
         window.addEventListener('scroll', (event) => {
-            console.log(window.scrollY);
             if (window.scrollY > 450) {
                 document.querySelector('.navbar').classList.add('is-not-transparent');
             }
