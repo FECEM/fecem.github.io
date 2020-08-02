@@ -241,7 +241,7 @@ class ContentComponent {
             document.querySelector('.notification-contact').classList.add('show');
             setTimeout(() => {
                 document.querySelector('.notification-contact').classList.remove('show');
-            }, 100);
+            }, 2000);
         });
     }
 }
