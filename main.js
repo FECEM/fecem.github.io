@@ -993,7 +993,7 @@ class NotificacionesService {
         this.http = http;
     }
     sendEmail(model) {
-        return this.http.post('/api-services/notificaciones/sendemail/', model);
+        return this.http.post('https://fe-software-cms.azurewebsites.net/umbraco/api/notificaciones/sendemail/', model);
     }
 }
 NotificacionesService.ɵfac = function NotificacionesService_Factory(t) { return new (t || NotificacionesService)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵinject"](_angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClient"])); };
